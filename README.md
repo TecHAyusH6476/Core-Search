@@ -200,6 +200,4 @@ Set extension for loading data at start
 ```
 
 
-License
------
-coresearch is licensed under the MIT.
+
